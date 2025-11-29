@@ -1,4 +1,4 @@
-<img width="779" height="801" alt="Screenshot 2025-11-29 at 9 19 56 PM" src="https://github.com/user-attachments/assets/5e4f1186-9a3c-4602-af32-713aeb735058" />
+
 # SQL Performance Dashboard
 
 A full-stack developer tool built with **.NET 8 (C#)** and **React + TypeScript** to execute SQL queries, measure performance, and view execution history. Inspired by database-tool workflows (similar to Oracle / Visual Studio tooling) and designed as a lightweight, cloud-friendly service for SQL performance analysis and logging.
@@ -49,7 +49,6 @@ A full-stack developer tool built with **.NET 8 (C#)** and **React + TypeScript*
 
 ### 1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/eghoAditya/sql-performance-dashboard.git
 cd sql-performance-dashboard
 
@@ -92,4 +91,6 @@ Response:
 }
 GET /api/sql/logs
 Returns the latest SQL execution logs.
+
+<img width="779" height="801" alt="Screenshot 2025-11-29 at 9 19 56 PM" src="https://github.com/user-attachments/assets/5e4f1186-9a3c-4602-af32-713aeb735058" />
 
