@@ -49,6 +49,7 @@ A full-stack developer tool built with **.NET 8 (C#)** and **React + TypeScript*
 
 ### 1️⃣ Clone the Repository
 
+```bash
 git clone https://github.com/eghoAditya/sql-performance-dashboard.git
 cd sql-performance-dashboard
 
@@ -93,4 +94,5 @@ GET /api/sql/logs
 Returns the latest SQL execution logs.
 
 <img width="779" height="801" alt="Screenshot 2025-11-29 at 9 19 56 PM" src="https://github.com/user-attachments/assets/5e4f1186-9a3c-4602-af32-713aeb735058" />
+
 
